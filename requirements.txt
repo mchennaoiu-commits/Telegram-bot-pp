@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+bs4
+faker
+beautifulsoup4
+flask
